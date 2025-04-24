@@ -1,7 +1,5 @@
 # healperci.us
 
-Tel: 310 322 5957 | Email: healperci@gmail.com Bogotá D.C, Colombia
-
 Perfil Profesional
 Ingeniero de Sistemas con experiencia como Analista y Desarrollador de Sistemas. Especialista en administración de servidores GNU/Linux, BSD, Windows y Mac. Habilidades en optimización de redes y soluciones TI a bajo costo con enfoque en resultados efectivos.
 ## Habilidades Clave
